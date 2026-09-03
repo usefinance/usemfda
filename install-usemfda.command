@@ -3,13 +3,9 @@ cd "$(dirname "$0")" || exit 1
 ADDON_DIR="$PWD"
 BASE_DIR="$ADDON_DIR"
 
-if [ ! -f "$BASE_DIR/pyproject.toml" ] && [ -f "$ADDON_DIR/../use-python/pyproject.toml" ]; then
-    BASE_DIR="$ADDON_DIR/../use-python"
-fi
-
 if [ ! -f "$BASE_DIR/pyproject.toml" ]; then
     echo "[ERROR] Could not find the use-python folder."
-    echo "Place the usemfda folder next to the use-python folder, then run this installer again."
+    echo "Unzip the USEMFDA add-on files directly into the use-python folder, then run this installer again."
     exit 1
 fi
 

@@ -3,11 +3,10 @@ setlocal
 
 set "ADDON_DIR=%~dp0"
 set "BASE_DIR=%ADDON_DIR%"
-if not exist "%BASE_DIR%pyproject.toml" if exist "%ADDON_DIR%..\use-python\pyproject.toml" set "BASE_DIR=%ADDON_DIR%..\use-python\"
 
 if not exist "%BASE_DIR%pyproject.toml" (
     echo [ERROR] Could not find the use-python folder.
-    echo Place the usemfda folder next to the use-python folder, then run this installer again.
+    echo Unzip the USEMFDA add-on files directly into the use-python folder, then run this installer again.
     pause
     exit /b 1
 )
