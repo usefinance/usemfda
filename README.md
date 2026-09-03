@@ -33,4 +33,4 @@ The first installation downloads PyTorch and related packages, so it can take se
 - `sentence-transformers`
 - `accelerate`
 
-`ollama` is a Python client only. Using local models also requires the separate Ollama application and a downloaded model.
+`ollama` is a Python client only. Using local models also requires the separate [Ollama application](https://ollama.com/download) and a downloaded model.
