@@ -1,13 +1,13 @@
 fund_id,fund_name,investment_style,annual_fee,currency,benchmark_ticker
-F01,Meridian Europe 01,Defensive quality,0.005,EUR,IMEU.AS
-F02,Meridian Europe 02,High-beta growth,0.008,EUR,IMEU.AS
-F03,Meridian Europe 03,Diversified security selection,0.0075,EUR,IMEU.AS
-F04,Meridian Europe 04,Premium-priced stock selection,0.022,EUR,IMEU.AS
-F05,Meridian Europe 05,Opportunistic themes,0.008,EUR,IMEU.AS
-F06,Meridian Europe 06,Sector rotation,0.009,EUR,IMEU.AS
-F07,Meridian Europe 07,Benchmark-aware equity,0.014,EUR,IMEU.AS
-F08,Meridian Europe 08,Improving quality-growth,0.008,EUR,IMEU.AS
-F09,Meridian Europe 09,Concentrated high conviction,0.01,EUR,IMEU.AS
-F10,Meridian Europe 10,Low-volatility equity,0.006,EUR,IMEU.AS
-F11,Meridian Europe 11,Value and special situations,0.009,EUR,IMEU.AS
-F12,Meridian Europe 12,Low-cost diversified active,0.004,EUR,IMEU.AS
+F01,USEful Europe Shield,Defensive quality,0.005,EUR,IMEU.AS
+F02,USEful Europe Accelerate,High-beta growth,0.008,EUR,IMEU.AS
+F03,USEful Europe Select,Diversified security selection,0.0075,EUR,IMEU.AS
+F04,USEful Europe Signature,Premium-priced stock selection,0.022,EUR,IMEU.AS
+F05,USEful Europe Opportunities,Opportunistic themes,0.008,EUR,IMEU.AS
+F06,USEful Europe Rotation,Sector rotation,0.009,EUR,IMEU.AS
+F07,USEful Europe Core,Benchmark-aware equity,0.014,EUR,IMEU.AS
+F08,USEful Europe Quality,Improving quality-growth,0.008,EUR,IMEU.AS
+F09,USEful Europe Focus,Concentrated high conviction,0.01,EUR,IMEU.AS
+F10,USEful Europe Steady,Low-volatility equity,0.006,EUR,IMEU.AS
+F11,USEful Europe Value,Value and special situations,0.009,EUR,IMEU.AS
+F12,USEful Europe Balance,Low-cost diversified active,0.004,EUR,IMEU.AS
