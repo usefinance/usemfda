@@ -1,0 +1,613 @@
+ticker,metric,year,value
+AMD,Operating Cash Flow,2023,1667000000
+AMD,Operating Cash Flow,2024,3041000000
+AMD,Operating Cash Flow,2025,7709000000
+AMD,Cash Flow from Operations,2023,1667000000
+AMD,Cash Flow from Operations,2024,3041000000
+AMD,Cash Flow from Operations,2025,6493000000
+AMD,Net Income from Operations,2023,854000000
+AMD,Net Income from Operations,2024,1641000000
+AMD,Net Income from Operations,2025,4269000000
+AMD,"Depreciation, Amortization and Depletion",2023,3453000000
+AMD,"Depreciation, Amortization and Depletion",2024,3064000000
+AMD,"Depreciation, Amortization and Depletion",2025,3004000000
+AMD,Depreciation and Amortization,2023,3453000000
+AMD,Depreciation and Amortization,2024,3064000000
+AMD,Depreciation and Amortization,2025,3004000000
+AMD,Depreciation,2023,642000000
+AMD,Depreciation,2024,671000000
+AMD,Depreciation,2025,750000000
+AMD,Deferred Tax,2023,-1019000000
+AMD,Deferred Tax,2024,-1163000000
+AMD,Deferred Tax,2025,248000000
+AMD,Deferred Income Tax,2023,-1019000000
+AMD,Deferred Income Tax,2024,-1163000000
+AMD,Deferred Income Tax,2025,248000000
+AMD,Stock Based Compensation,2023,1384000000
+AMD,Stock Based Compensation,2024,1407000000
+AMD,Stock Based Compensation,2025,1638000000
+AMD,Other Non Cash Items,2023,45000000
+AMD,Other Non Cash Items,2024,190000000
+AMD,Other Non Cash Items,2025,53000000
+AMD,Change in Working Capital,2023,-3049000000
+AMD,Change in Working Capital,2024,-2098000000
+AMD,Change in Working Capital,2025,-2378000000
+AMD,Change in Accounts Receivables,2023,-1339000000
+AMD,Change in Accounts Receivables,2024,-1865000000
+AMD,Change in Accounts Receivables,2025,-121000000
+AMD,Change in Inventory,2023,-580000000
+AMD,Change in Inventory,2024,-1458000000
+AMD,Change in Inventory,2025,-2189000000
+AMD,Change in Payables and Accrued Expense,2023,-740000000
+AMD,Change in Payables and Accrued Expense,2024,886000000
+AMD,Change in Payables and Accrued Expense,2025,-57000000
+AMD,Change in Payable,2023,-519000000
+AMD,Change in Payable,2024,3000000
+AMD,Change in Payable,2025,410000000
+AMD,Change in Accounts Payables,2023,0
+AMD,Change in Accounts Payables,2024,0
+AMD,Change in Accounts Payables,2025,0
+AMD,Change in Other Current Assets,2023,0
+AMD,Change in Other Current Assets,2024,0
+AMD,Change in Other Current Assets,2025,0
+AMD,Change in Other Current Liabilities,2023,0
+AMD,Change in Other Current Liabilities,2024,0
+AMD,Change in Other Current Liabilities,2025,0
+AMD,Change in Other Working Capital,2023,-107000000
+AMD,Change in Other Working Capital,2024,108000000
+AMD,Change in Other Working Capital,2025,0
+AMD,Cash Flow from Investing,2023,-1423000000
+AMD,Cash Flow from Investing,2024,-1101000000
+AMD,Cash Flow from Investing,2025,-5533000000
+AMD, Cash Flow from Continuing Investing Activities,2023,-1423000000
+AMD, Cash Flow from Continuing Investing Activities,2024,-1101000000
+AMD, Cash Flow from Continuing Investing Activities,2025,-6851000000
+AMD,"Property, Plant and Equipment",2023,-546000000
+AMD,"Property, Plant and Equipment",2024,-636000000
+AMD,"Property, Plant and Equipment",2025,-974000000
+AMD,"Purchase of Property, Plant and Equipment",2023,-546000000
+AMD,"Purchase of Property, Plant and Equipment",2024,-636000000
+AMD,"Purchase of Property, Plant and Equipment",2025,-974000000
+AMD,Net Business Purchase and Sale,2023,-131000000
+AMD,Net Business Purchase and Sale,2024,-548000000
+AMD,Net Business Purchase and Sale,2025,-1760000000
+AMD,Purchase of Business,2023,-131000000
+AMD,Purchase of Business,2024,-548000000
+AMD,Purchase of Business,2025,-1760000000
+AMD,Net Investment Purchase and Sale,2023,-746000000
+AMD,Net Investment Purchase and Sale,2024,198000000
+AMD,Net Investment Purchase and Sale,2025,-4127000000
+AMD,Purchases of Investment,2023,0
+AMD,Purchases of Investment,2024,0
+AMD,Purchases of Investment,2025,0
+AMD,Sales of Investments,2023,2987000000
+AMD,Sales of Investments,2024,2032000000
+AMD,Sales of Investments,2025,1845000000
+AMD,Other Investing Activities,2023,-11000000
+AMD,Other Investing Activities,2024,-115000000
+AMD,Other Investing Activities,2025,10000000
+AMD,Cash Flow from Financing,2023,-1146000000
+AMD,Cash Flow from Financing,2024,-2062000000
+AMD,Cash Flow from Financing,2025,-431000000
+AMD,Cash Flow from Continuing Financing Activities,2023,-1146000000
+AMD,Cash Flow from Continuing Financing Activities,2024,-2062000000
+AMD,Cash Flow from Continuing Financing Activities,2025,-431000000
+AMD,Net Issuance Payments of Debt,2023,0
+AMD,Net Issuance Payments of Debt,2024,-750000000
+AMD,Net Issuance Payments of Debt,2025,1491000000
+AMD,Long Term Debt Issued,2023,0
+AMD,Long Term Debt Issued,2024,-750000000
+AMD,Long Term Debt Issued,2025,1491000000
+AMD,Short Term Debt Issued,2023,0
+AMD,Short Term Debt Issued,2024,0
+AMD,Short Term Debt Issued,2025,0
+AMD,Net Common Stock Issuance,2023,-1412000000
+AMD,Net Common Stock Issuance,2024,-1590000000
+AMD,Net Common Stock Issuance,2025,-1923000000
+AMD,Common Stock Issued,2023,0
+AMD,Common Stock Issued,2024,0
+AMD,Common Stock Issued,2025,0
+AMD,Common Stock Purchased,2023,-1412000000
+AMD,Common Stock Purchased,2024,-1590000000
+AMD,Common Stock Purchased,2025,-1923000000
+AMD,Dividends Paid,2023,0
+AMD,Dividends Paid,2024,0
+AMD,Dividends Paid,2025,0
+AMD,Common Dividends Paid,2023,0
+AMD,Common Dividends Paid,2024,0
+AMD,Common Dividends Paid,2025,0
+AMD,Net Other Financing Charges,2023,-2000000
+AMD,Net Other Financing Charges,2024,-1000000
+AMD,Net Other Financing Charges,2025,-284000000
+AMD,Cash End of Period,2023,3933000000
+AMD,Cash End of Period,2024,3811000000
+AMD,Cash End of Period,2025,5556000000
+AMD,Net Change in Cash,2023,-902000000
+AMD,Net Change in Cash,2024,-122000000
+AMD,Net Change in Cash,2025,1745000000
+AMD,Cash Beginning of Period,2023,4835000000
+AMD,Cash Beginning of Period,2024,3933000000
+AMD,Cash Beginning of Period,2025,3811000000
+AMD,Income Taxes Paid,2023,523000000
+AMD,Income Taxes Paid,2024,1386000000
+AMD,Income Taxes Paid,2025,884000000
+AMD,Interest Paid,2023,84000000
+AMD,Interest Paid,2024,72000000
+AMD,Interest Paid,2025,91000000
+AMD,Capital Expenditure,2023,-546000000
+AMD,Capital Expenditure,2024,-636000000
+AMD,Capital Expenditure,2025,-974000000
+AMD,Issuance of Capital Stock,2023,0
+AMD,Issuance of Capital Stock,2024,0
+AMD,Issuance of Capital Stock,2025,0
+AMD,Net Debt Issued,2023,0
+AMD,Net Debt Issued,2024,0
+AMD,Net Debt Issued,2025,2441000000
+AMD,Debt Repayment,2023,0
+AMD,Debt Repayment,2024,-750000000
+AMD,Debt Repayment,2025,-950000000
+AMD,Repurchase of Capital Stock,2023,-1412000000
+AMD,Repurchase of Capital Stock,2024,-1590000000
+AMD,Repurchase of Capital Stock,2025,-1923000000
+AMD,Free Cash Flow,2023,1121000000
+AMD,Free Cash Flow,2024,2405000000
+AMD,Free Cash Flow,2025,6735000000
+INTC,Operating Cash Flow,2023,11471000000
+INTC,Operating Cash Flow,2024,8288000000
+INTC,Operating Cash Flow,2025,9697000000
+INTC,Cash Flow from Operations,2023,11471000000
+INTC,Cash Flow from Operations,2024,8288000000
+INTC,Cash Flow from Operations,2025,9697000000
+INTC,Net Income from Operations,2023,1675000000
+INTC,Net Income from Operations,2024,-19233000000
+INTC,Net Income from Operations,2025,26000000
+INTC,"Depreciation, Amortization and Depletion",2023,9602000000
+INTC,"Depreciation, Amortization and Depletion",2024,11379000000
+INTC,"Depreciation, Amortization and Depletion",2025,11706000000
+INTC,Depreciation and Amortization,2023,9602000000
+INTC,Depreciation and Amortization,2024,11379000000
+INTC,Depreciation and Amortization,2025,11706000000
+INTC,Depreciation,2023,7847000000
+INTC,Depreciation,2024,9951000000
+INTC,Depreciation,2025,10757000000
+INTC,Deferred Tax,2023,-2033000000
+INTC,Deferred Tax,2024,6132000000
+INTC,Deferred Tax,2025,328000000
+INTC,Deferred Income Tax,2023,-2033000000
+INTC,Deferred Income Tax,2024,6132000000
+INTC,Deferred Income Tax,2025,328000000
+INTC,Stock Based Compensation,2023,3229000000
+INTC,Stock Based Compensation,2024,3410000000
+INTC,Stock Based Compensation,2025,2434000000
+INTC,Other Non Cash Items,2023,-424000000
+INTC,Other Non Cash Items,2024,3491000000
+INTC,Other Non Cash Items,2025,476000000
+INTC,Change in Working Capital,2023,-569000000
+INTC,Change in Working Capital,2024,1103000000
+INTC,Change in Working Capital,2025,-1747000000
+INTC,Change in Accounts Receivables,2023,731000000
+INTC,Change in Accounts Receivables,2024,-75000000
+INTC,Change in Accounts Receivables,2025,-449000000
+INTC,Change in Inventory,2023,2097000000
+INTC,Change in Inventory,2024,-1105000000
+INTC,Change in Inventory,2025,-138000000
+INTC,Change in Payables and Accrued Expense,2023,-1415000000
+INTC,Change in Payables and Accrued Expense,2024,416000000
+INTC,Change in Payables and Accrued Expense,2025,1085000000
+INTC,Change in Payable,2023,-801000000
+INTC,Change in Payable,2024,634000000
+INTC,Change in Payable,2025,297000000
+INTC,Change in Accounts Payables,2023,0
+INTC,Change in Accounts Payables,2024,0
+INTC,Change in Accounts Payables,2025,0
+INTC,Change in Other Current Assets,2023,0
+INTC,Change in Other Current Assets,2024,0
+INTC,Change in Other Current Assets,2025,0
+INTC,Change in Other Current Liabilities,2023,0
+INTC,Change in Other Current Liabilities,2024,0
+INTC,Change in Other Current Liabilities,2025,0
+INTC,Change in Other Working Capital,2023,-1982000000
+INTC,Change in Other Working Capital,2024,1867000000
+INTC,Change in Other Working Capital,2025,-2245000000
+INTC,Cash Flow from Investing,2023,-24041000000
+INTC,Cash Flow from Investing,2024,-18256000000
+INTC,Cash Flow from Investing,2025,-14821000000
+INTC, Cash Flow from Continuing Investing Activities,2023,-24041000000
+INTC, Cash Flow from Continuing Investing Activities,2024,-18256000000
+INTC, Cash Flow from Continuing Investing Activities,2025,-14821000000
+INTC,"Property, Plant and Equipment",2023,-25750000000
+INTC,"Property, Plant and Equipment",2024,-23944000000
+INTC,"Property, Plant and Equipment",2025,-14646000000
+INTC,"Purchase of Property, Plant and Equipment",2023,-25750000000
+INTC,"Purchase of Property, Plant and Equipment",2024,-23944000000
+INTC,"Purchase of Property, Plant and Equipment",2025,-14646000000
+INTC,Net Business Purchase and Sale,2023,0
+INTC,Net Business Purchase and Sale,2024,0
+INTC,Net Business Purchase and Sale,2025,6157000000
+INTC,Purchase of Business,2023,-13000000
+INTC,Purchase of Business,2024,-82000000
+INTC,Purchase of Business,2025,0
+INTC,Net Investment Purchase and Sale,2023,135000000
+INTC,Net Investment Purchase and Sale,2024,4570000000
+INTC,Net Investment Purchase and Sale,2025,-8261000000
+INTC,Purchases of Investment,2023,0
+INTC,Purchases of Investment,2024,0
+INTC,Purchases of Investment,2025,0
+INTC,Sales of Investments,2023,44549000000
+INTC,Sales of Investments,2024,42510000000
+INTC,Sales of Investments,2025,16058000000
+INTC,Other Investing Activities,2023,1574000000
+INTC,Other Investing Activities,2024,1118000000
+INTC,Other Investing Activities,2025,1929000000
+INTC,Cash Flow from Financing,2023,8505000000
+INTC,Cash Flow from Financing,2024,11138000000
+INTC,Cash Flow from Financing,2025,11587000000
+INTC,Cash Flow from Continuing Financing Activities,2023,8505000000
+INTC,Cash Flow from Continuing Financing Activities,2024,11138000000
+INTC,Cash Flow from Continuing Financing Activities,2025,11587000000
+INTC,Net Issuance Payments of Debt,2023,7024000000
+INTC,Net Issuance Payments of Debt,2024,687000000
+INTC,Net Issuance Payments of Debt,2025,-3750000000
+INTC,Long Term Debt Issued,2023,10968000000
+INTC,Long Term Debt Issued,2024,687000000
+INTC,Long Term Debt Issued,2025,-3750000000
+INTC,Short Term Debt Issued,2023,-3944000000
+INTC,Short Term Debt Issued,2024,0
+INTC,Short Term Debt Issued,2025,0
+INTC,Net Common Stock Issuance,2023,0
+INTC,Net Common Stock Issuance,2024,12714000000
+INTC,Net Common Stock Issuance,2025,0
+INTC,Common Stock Issued,2023,1511000000
+INTC,Common Stock Issued,2024,12714000000
+INTC,Common Stock Issued,2025,0
+INTC,Common Stock Purchased,2023,0
+INTC,Common Stock Purchased,2024,0
+INTC,Common Stock Purchased,2025,0
+INTC,Dividends Paid,2023,-3088000000
+INTC,Dividends Paid,2024,-1599000000
+INTC,Dividends Paid,2025,0
+INTC,Common Dividends Paid,2023,-3088000000
+INTC,Common Dividends Paid,2024,-1599000000
+INTC,Common Dividends Paid,2025,0
+INTC,Net Other Financing Charges,2023,3527000000
+INTC,Net Other Financing Charges,2024,11063000000
+INTC,Net Other Financing Charges,2025,1860000000
+INTC,Cash End of Period,2023,7079000000
+INTC,Cash End of Period,2024,8249000000
+INTC,Cash End of Period,2025,14712000000
+INTC,Net Change in Cash,2023,-4065000000
+INTC,Net Change in Cash,2024,1170000000
+INTC,Net Change in Cash,2025,6463000000
+INTC,Cash Beginning of Period,2023,11144000000
+INTC,Cash Beginning of Period,2024,7079000000
+INTC,Cash Beginning of Period,2025,8249000000
+INTC,Income Taxes Paid,2023,2621000000
+INTC,Income Taxes Paid,2024,2202000000
+INTC,Income Taxes Paid,2025,2299000000
+INTC,Interest Paid,2023,613000000
+INTC,Interest Paid,2024,987000000
+INTC,Interest Paid,2025,1106000000
+INTC,Capital Expenditure,2023,-25750000000
+INTC,Capital Expenditure,2024,-23944000000
+INTC,Capital Expenditure,2025,-14646000000
+INTC,Issuance of Capital Stock,2023,1511000000
+INTC,Issuance of Capital Stock,2024,12714000000
+INTC,Issuance of Capital Stock,2025,0
+INTC,Net Debt Issued,2023,11391000000
+INTC,Net Debt Issued,2024,10324000000
+INTC,Net Debt Issued,2025,3493000000
+INTC,Debt Repayment,2023,-4367000000
+INTC,Debt Repayment,2024,-9637000000
+INTC,Debt Repayment,2025,-7243000000
+INTC,Repurchase of Capital Stock,2023,0
+INTC,Repurchase of Capital Stock,2024,0
+INTC,Repurchase of Capital Stock,2025,0
+INTC,Free Cash Flow,2023,-14279000000
+INTC,Free Cash Flow,2024,-15656000000
+INTC,Free Cash Flow,2025,-4949000000
+NVDA,Operating Cash Flow,2023,28090000000
+NVDA,Operating Cash Flow,2024,64089000000
+NVDA,Operating Cash Flow,2025,102718000000
+NVDA,Cash Flow from Operations,2023,28090000000
+NVDA,Cash Flow from Operations,2024,64089000000
+NVDA,Cash Flow from Operations,2025,102718000000
+NVDA,Net Income from Operations,2023,29760000000
+NVDA,Net Income from Operations,2024,72880000000
+NVDA,Net Income from Operations,2025,120067000000
+NVDA,"Depreciation, Amortization and Depletion",2023,1508000000
+NVDA,"Depreciation, Amortization and Depletion",2024,1864000000
+NVDA,"Depreciation, Amortization and Depletion",2025,2843000000
+NVDA,Depreciation and Amortization,2023,1508000000
+NVDA,Depreciation and Amortization,2024,1864000000
+NVDA,Depreciation and Amortization,2025,2843000000
+NVDA,Depreciation,2023,894000000
+NVDA,Depreciation,2024,0
+NVDA,Depreciation,2025,0
+NVDA,Deferred Tax,2023,-2489000000
+NVDA,Deferred Tax,2024,-4477000000
+NVDA,Deferred Tax,2025,-1424000000
+NVDA,Deferred Income Tax,2023,-2489000000
+NVDA,Deferred Income Tax,2024,-4477000000
+NVDA,Deferred Income Tax,2025,-1424000000
+NVDA,Stock Based Compensation,2023,3549000000
+NVDA,Stock Based Compensation,2024,4737000000
+NVDA,Stock Based Compensation,2025,6386000000
+NVDA,Other Non Cash Items,2023,-278000000
+NVDA,Other Non Cash Items,2024,-502000000
+NVDA,Other Non Cash Items,2025,-287000000
+NVDA,Change in Working Capital,2023,-3722000000
+NVDA,Change in Working Capital,2024,-9383000000
+NVDA,Change in Working Capital,2025,-15949000000
+NVDA,Change in Accounts Receivables,2023,-6172000000
+NVDA,Change in Accounts Receivables,2024,-13063000000
+NVDA,Change in Accounts Receivables,2025,-15399000000
+NVDA,Change in Inventory,2023,-98000000
+NVDA,Change in Inventory,2024,-4781000000
+NVDA,Change in Inventory,2025,-11324000000
+NVDA,Change in Payables and Accrued Expense,2023,3556000000
+NVDA,Change in Payables and Accrued Expense,2024,7635000000
+NVDA,Change in Payables and Accrued Expense,2025,8353000000
+NVDA,Change in Payable,2023,1531000000
+NVDA,Change in Payable,2024,3357000000
+NVDA,Change in Payable,2025,3096000000
+NVDA,Change in Accounts Payables,2023,0
+NVDA,Change in Accounts Payables,2024,0
+NVDA,Change in Accounts Payables,2025,0
+NVDA,Change in Other Current Assets,2023,0
+NVDA,Change in Other Current Assets,2024,0
+NVDA,Change in Other Current Assets,2025,0
+NVDA,Change in Other Current Liabilities,2023,514000000
+NVDA,Change in Other Current Liabilities,2024,1221000000
+NVDA,Change in Other Current Liabilities,2025,1844000000
+NVDA,Change in Other Working Capital,2023,0
+NVDA,Change in Other Working Capital,2024,0
+NVDA,Change in Other Working Capital,2025,0
+NVDA,Cash Flow from Investing,2023,-10566000000
+NVDA,Cash Flow from Investing,2024,-20421000000
+NVDA,Cash Flow from Investing,2025,-52228000000
+NVDA, Cash Flow from Continuing Investing Activities,2023,-10566000000
+NVDA, Cash Flow from Continuing Investing Activities,2024,-20421000000
+NVDA, Cash Flow from Continuing Investing Activities,2025,-52228000000
+NVDA,"Property, Plant and Equipment",2023,-1069000000
+NVDA,"Property, Plant and Equipment",2024,-3236000000
+NVDA,"Property, Plant and Equipment",2025,-6042000000
+NVDA,"Purchase of Property, Plant and Equipment",2023,-1069000000
+NVDA,"Purchase of Property, Plant and Equipment",2024,-3236000000
+NVDA,"Purchase of Property, Plant and Equipment",2025,-6042000000
+NVDA,Net Business Purchase and Sale,2023,-83000000
+NVDA,Net Business Purchase and Sale,2024,-1007000000
+NVDA,Net Business Purchase and Sale,2025,-14535000000
+NVDA,Purchase of Business,2023,-83000000
+NVDA,Purchase of Business,2024,-1007000000
+NVDA,Purchase of Business,2025,-14535000000
+NVDA,Net Investment Purchase and Sale,2023,-9290000000
+NVDA,Net Investment Purchase and Sale,2024,-16200000000
+NVDA,Net Investment Purchase and Sale,2025,-31651000000
+NVDA,Purchases of Investment,2023,0
+NVDA,Purchases of Investment,2024,0
+NVDA,Purchases of Investment,2025,0
+NVDA,Sales of Investments,2023,9783000000
+NVDA,Sales of Investments,2024,11861000000
+NVDA,Sales of Investments,2025,26467000000
+NVDA,Other Investing Activities,2023,-124000000
+NVDA,Other Investing Activities,2024,22000000
+NVDA,Other Investing Activities,2025,0
+NVDA,Cash Flow from Financing,2023,-13633000000
+NVDA,Cash Flow from Financing,2024,-42359000000
+NVDA,Cash Flow from Financing,2025,-48474000000
+NVDA,Cash Flow from Continuing Financing Activities,2023,-13633000000
+NVDA,Cash Flow from Continuing Financing Activities,2024,-42359000000
+NVDA,Cash Flow from Continuing Financing Activities,2025,-48474000000
+NVDA,Net Issuance Payments of Debt,2023,-1250000000
+NVDA,Net Issuance Payments of Debt,2024,-1250000000
+NVDA,Net Issuance Payments of Debt,2025,0
+NVDA,Long Term Debt Issued,2023,-1250000000
+NVDA,Long Term Debt Issued,2024,-1250000000
+NVDA,Long Term Debt Issued,2025,0
+NVDA,Short Term Debt Issued,2023,0
+NVDA,Short Term Debt Issued,2024,0
+NVDA,Short Term Debt Issued,2025,0
+NVDA,Net Common Stock Issuance,2023,-9533000000
+NVDA,Net Common Stock Issuance,2024,-33706000000
+NVDA,Net Common Stock Issuance,2025,-40086000000
+NVDA,Common Stock Issued,2023,0
+NVDA,Common Stock Issued,2024,0
+NVDA,Common Stock Issued,2025,0
+NVDA,Common Stock Purchased,2023,-9533000000
+NVDA,Common Stock Purchased,2024,-33706000000
+NVDA,Common Stock Purchased,2025,-40086000000
+NVDA,Dividends Paid,2023,-395000000
+NVDA,Dividends Paid,2024,-834000000
+NVDA,Dividends Paid,2025,-974000000
+NVDA,Common Dividends Paid,2023,-395000000
+NVDA,Common Dividends Paid,2024,-834000000
+NVDA,Common Dividends Paid,2025,-974000000
+NVDA,Net Other Financing Charges,2023,-2858000000
+NVDA,Net Other Financing Charges,2024,-7059000000
+NVDA,Net Other Financing Charges,2025,-8058000000
+NVDA,Cash End of Period,2023,7280000000
+NVDA,Cash End of Period,2024,8589000000
+NVDA,Cash End of Period,2025,10605000000
+NVDA,Net Change in Cash,2023,3891000000
+NVDA,Net Change in Cash,2024,1309000000
+NVDA,Net Change in Cash,2025,2016000000
+NVDA,Cash Beginning of Period,2023,3389000000
+NVDA,Cash Beginning of Period,2024,7280000000
+NVDA,Cash Beginning of Period,2025,8589000000
+NVDA,Income Taxes Paid,2023,6549000000
+NVDA,Income Taxes Paid,2024,15118000000
+NVDA,Income Taxes Paid,2025,20288000000
+NVDA,Interest Paid,2023,252000000
+NVDA,Interest Paid,2024,246000000
+NVDA,Interest Paid,2025,0
+NVDA,Capital Expenditure,2023,-1069000000
+NVDA,Capital Expenditure,2024,-3236000000
+NVDA,Capital Expenditure,2025,-6042000000
+NVDA,Issuance of Capital Stock,2023,0
+NVDA,Issuance of Capital Stock,2024,0
+NVDA,Issuance of Capital Stock,2025,0
+NVDA,Net Debt Issued,2023,0
+NVDA,Net Debt Issued,2024,0
+NVDA,Net Debt Issued,2025,0
+NVDA,Debt Repayment,2023,-1250000000
+NVDA,Debt Repayment,2024,-1250000000
+NVDA,Debt Repayment,2025,0
+NVDA,Repurchase of Capital Stock,2023,-9533000000
+NVDA,Repurchase of Capital Stock,2024,-33706000000
+NVDA,Repurchase of Capital Stock,2025,-40086000000
+NVDA,Free Cash Flow,2023,27021000000
+NVDA,Free Cash Flow,2024,60853000000
+NVDA,Free Cash Flow,2025,96676000000
+TXN,Operating Cash Flow,2023,6420000000
+TXN,Operating Cash Flow,2024,6318000000
+TXN,Operating Cash Flow,2025,7153000000
+TXN,Cash Flow from Operations,2023,6420000000
+TXN,Cash Flow from Operations,2024,6318000000
+TXN,Cash Flow from Operations,2025,7153000000
+TXN,Net Income from Operations,2023,6510000000
+TXN,Net Income from Operations,2024,4799000000
+TXN,Net Income from Operations,2025,5001000000
+TXN,"Depreciation, Amortization and Depletion",2023,1238000000
+TXN,"Depreciation, Amortization and Depletion",2024,1580000000
+TXN,"Depreciation, Amortization and Depletion",2025,1999000000
+TXN,Depreciation and Amortization,2023,1238000000
+TXN,Depreciation and Amortization,2024,1580000000
+TXN,Depreciation and Amortization,2025,1999000000
+TXN,Depreciation,2023,1175000000
+TXN,Depreciation,2024,1508000000
+TXN,Depreciation,2025,1918000000
+TXN,Deferred Tax,2023,-299000000
+TXN,Deferred Tax,2024,-210000000
+TXN,Deferred Tax,2025,-19000000
+TXN,Deferred Income Tax,2023,-299000000
+TXN,Deferred Income Tax,2024,-210000000
+TXN,Deferred Income Tax,2025,-19000000
+TXN,Stock Based Compensation,2023,362000000
+TXN,Stock Based Compensation,2024,387000000
+TXN,Stock Based Compensation,2025,419000000
+TXN,Other Non Cash Items,2023,-292000000
+TXN,Other Non Cash Items,2024,-368000000
+TXN,Other Non Cash Items,2025,22000000
+TXN,Change in Working Capital,2023,-1099000000
+TXN,Change in Working Capital,2024,257000000
+TXN,Change in Working Capital,2025,-271000000
+TXN,Change in Accounts Receivables,2023,108000000
+TXN,Change in Accounts Receivables,2024,68000000
+TXN,Change in Accounts Receivables,2025,-244000000
+TXN,Change in Inventory,2023,-1242000000
+TXN,Change in Inventory,2024,-528000000
+TXN,Change in Inventory,2025,-277000000
+TXN,Change in Payables and Accrued Expense,2023,-11000000
+TXN,Change in Payables and Accrued Expense,2024,710000000
+TXN,Change in Payables and Accrued Expense,2025,240000000
+TXN,Change in Payable,2023,-40000000
+TXN,Change in Payable,2024,722000000
+TXN,Change in Payable,2025,268000000
+TXN,Change in Accounts Payables,2023,0
+TXN,Change in Accounts Payables,2024,0
+TXN,Change in Accounts Payables,2025,0
+TXN,Change in Other Current Assets,2023,0
+TXN,Change in Other Current Assets,2024,0
+TXN,Change in Other Current Assets,2025,0
+TXN,Change in Other Current Liabilities,2023,0
+TXN,Change in Other Current Liabilities,2024,0
+TXN,Change in Other Current Liabilities,2025,0
+TXN,Change in Other Working Capital,2023,29000000
+TXN,Change in Other Working Capital,2024,0
+TXN,Change in Other Working Capital,2025,0
+TXN,Cash Flow from Investing,2023,-4362000000
+TXN,Cash Flow from Investing,2024,-3202000000
+TXN,Cash Flow from Investing,2025,-1439000000
+TXN, Cash Flow from Continuing Investing Activities,2023,-4362000000
+TXN, Cash Flow from Continuing Investing Activities,2024,-3202000000
+TXN, Cash Flow from Continuing Investing Activities,2025,-1439000000
+TXN,"Property, Plant and Equipment",2023,0
+TXN,"Property, Plant and Equipment",2024,0
+TXN,"Property, Plant and Equipment",2025,0
+TXN,"Purchase of Property, Plant and Equipment",2023,0
+TXN,"Purchase of Property, Plant and Equipment",2024,0
+TXN,"Purchase of Property, Plant and Equipment",2025,0
+TXN,Net Business Purchase and Sale,2023,0
+TXN,Net Business Purchase and Sale,2024,0
+TXN,Net Business Purchase and Sale,2025,0
+TXN,Purchase of Business,2023,0
+TXN,Purchase of Business,2024,0
+TXN,Purchase of Business,2025,0
+TXN,Net Investment Purchase and Sale,2023,682000000
+TXN,Net Investment Purchase and Sale,2024,1471000000
+TXN,Net Investment Purchase and Sale,2025,2784000000
+TXN,Purchases of Investment,2023,0
+TXN,Purchases of Investment,2024,0
+TXN,Purchases of Investment,2025,0
+TXN,Sales of Investments,2023,13387000000
+TXN,Sales of Investments,2024,11187000000
+TXN,Sales of Investments,2025,6308000000
+TXN,Other Investing Activities,2023,27000000
+TXN,Other Investing Activities,2024,147000000
+TXN,Other Investing Activities,2025,327000000
+TXN,Cash Flow from Financing,2023,-2144000000
+TXN,Cash Flow from Financing,2024,-2880000000
+TXN,Cash Flow from Financing,2025,-5689000000
+TXN,Cash Flow from Continuing Financing Activities,2023,-2144000000
+TXN,Cash Flow from Continuing Financing Activities,2024,-2880000000
+TXN,Cash Flow from Continuing Financing Activities,2025,-5689000000
+TXN,Net Issuance Payments of Debt,2023,2500000000
+TXN,Net Issuance Payments of Debt,2024,2380000000
+TXN,Net Issuance Payments of Debt,2025,449000000
+TXN,Long Term Debt Issued,2023,2500000000
+TXN,Long Term Debt Issued,2024,2380000000
+TXN,Long Term Debt Issued,2025,449000000
+TXN,Short Term Debt Issued,2023,0
+TXN,Short Term Debt Issued,2024,0
+TXN,Short Term Debt Issued,2025,0
+TXN,Net Common Stock Issuance,2023,-30000000
+TXN,Net Common Stock Issuance,2024,-412000000
+TXN,Net Common Stock Issuance,2025,-1077000000
+TXN,Common Stock Issued,2023,263000000
+TXN,Common Stock Issued,2024,517000000
+TXN,Common Stock Issued,2025,400000000
+TXN,Common Stock Purchased,2023,-293000000
+TXN,Common Stock Purchased,2024,-929000000
+TXN,Common Stock Purchased,2025,-1477000000
+TXN,Dividends Paid,2023,-4557000000
+TXN,Dividends Paid,2024,-4795000000
+TXN,Dividends Paid,2025,-4999000000
+TXN,Common Dividends Paid,2023,-4557000000
+TXN,Common Dividends Paid,2024,-4795000000
+TXN,Common Dividends Paid,2025,-4999000000
+TXN,Net Other Financing Charges,2023,-57000000
+TXN,Net Other Financing Charges,2024,-53000000
+TXN,Net Other Financing Charges,2025,-62000000
+TXN,Cash End of Period,2023,2964000000
+TXN,Cash End of Period,2024,3200000000
+TXN,Cash End of Period,2025,3225000000
+TXN,Net Change in Cash,2023,-86000000
+TXN,Net Change in Cash,2024,236000000
+TXN,Net Change in Cash,2025,25000000
+TXN,Cash Beginning of Period,2023,3050000000
+TXN,Cash Beginning of Period,2024,2964000000
+TXN,Cash Beginning of Period,2025,3200000000
+TXN,Income Taxes Paid,2023,0
+TXN,Income Taxes Paid,2024,588000000
+TXN,Income Taxes Paid,2025,335000000
+TXN,Interest Paid,2023,0
+TXN,Interest Paid,2024,0
+TXN,Interest Paid,2025,0
+TXN,Capital Expenditure,2023,-5071000000
+TXN,Capital Expenditure,2024,-4820000000
+TXN,Capital Expenditure,2025,-4550000000
+TXN,Issuance of Capital Stock,2023,263000000
+TXN,Issuance of Capital Stock,2024,517000000
+TXN,Issuance of Capital Stock,2025,400000000
+TXN,Net Debt Issued,2023,3000000000
+TXN,Net Debt Issued,2024,2980000000
+TXN,Net Debt Issued,2025,1199000000
+TXN,Debt Repayment,2023,-500000000
+TXN,Debt Repayment,2024,-600000000
+TXN,Debt Repayment,2025,-750000000
+TXN,Repurchase of Capital Stock,2023,-293000000
+TXN,Repurchase of Capital Stock,2024,-929000000
+TXN,Repurchase of Capital Stock,2025,-1477000000
+TXN,Free Cash Flow,2023,1349000000
+TXN,Free Cash Flow,2024,1498000000
+TXN,Free Cash Flow,2025,2603000000

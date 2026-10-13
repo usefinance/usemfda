@@ -1,0 +1,7 @@
+symbol,name,country,currency,sector,industry,exchange,market
+AAPL,Apple Inc.,United States,USD,Information Technology,Computers & Hardware,NMS,NASDAQ Global Select
+AMD,"Advanced Micro Devices, Inc.",United States,USD,Information Technology,Semiconductors & Chip Equipment,NMS,NASDAQ Global Select
+INTC,Intel Corporation,United States,USD,Information Technology,Semiconductors & Chip Equipment,NMS,NASDAQ Global Select
+MSFT,Microsoft Corporation,United States,USD,Information Technology,Software,NMS,NASDAQ Global Select
+NVDA,NVIDIA Corporation,United States,USD,Information Technology,Semiconductors & Chip Equipment,NMS,NASDAQ Global Select
+TXN,Texas Instruments Incorporated,United States,USD,Information Technology,Semiconductors & Chip Equipment,NMS,NASDAQ Global Select
